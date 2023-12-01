@@ -7,7 +7,6 @@ using System.Linq;
 using System.Threading;
 
 
-
 class Program
 
 {
@@ -81,7 +80,6 @@ class Program
             Console.SetCursorPosition(obstacleXpos, obstacleYpos);
 
             Console.Write(obstacle);
-
 
 
             Console.ForegroundColor = ConsoleColor.Green;
